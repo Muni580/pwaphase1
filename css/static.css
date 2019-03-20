@@ -1,0 +1,20 @@
+.parent
+{
+  display: flex;
+}
+.class
+{
+  width: 30%;
+  border: 1px solid lightgray
+background:silver;
+border-radius: 20px solid black;
+padding: 2%;
+margin: 2%
+}
+.stu{
+    border: 1px solid lightgray
+    background:silver;
+    border-radius: 20px solid black;
+    padding: 2%;
+    margin: 2%
+}

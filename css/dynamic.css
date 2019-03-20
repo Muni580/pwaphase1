@@ -1,0 +1,20 @@
+.main{
+  display: flex;
+  background: pink;
+}
+.left{
+  background: silver;
+  padding:20px;
+  margin:2px;
+  border-radius: 20px;
+}
+.right{
+  background: silver;
+  padding:2px;
+  margin:2px;
+    border-radius: 20px;
+
+}
+tr{
+  border:1px solid black;
+}

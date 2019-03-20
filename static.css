@@ -1,0 +1,24 @@
+.main
+{
+  display: flex;
+}
+.left
+{
+  width: 30%;
+  border: 1px solid lightgray
+background:silver;
+}
+.right
+{
+    border: 1px solid lightgray
+    background:silver;
+
+}
+img
+{
+  width: 80%;
+  border-radius: 10%;
+}
+table{
+  border:
+}

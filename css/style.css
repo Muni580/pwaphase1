@@ -1,0 +1,32 @@
+body{
+  background-color:#33FFCA;
+
+}
+.Main{
+  background-color: #33FFCA;
+  justify-content: space-background;
+  display:flex;
+  margin:1%;
+  padding:1%;
+
+}
+.Sub
+{background-color: 2px solid black;
+  text-align: center;
+  width: 30%;
+box-shadow: 5px 5px red;
+margin:1%;
+padding:1%;
+}
+  @media screen and(min-width:768px) and(max-width:1024px) {
+    .Main{
+      flex-wrap: wrap;
+    }
+.Sub{
+  width: 44%;
+  flex-wrap: wrap;
+}
+  }
+img {
+  width: 100%;
+}

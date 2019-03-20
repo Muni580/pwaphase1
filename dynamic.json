@@ -1,0 +1,44 @@
+{
+  "basics":
+  {
+    "img":"image/img_forest.jpg",
+ "name":"muneendra",
+  "email":"dasari.muneendra99@gmail.com"
+},
+"carrier":
+{
+  "info":"i want to complete"
+},
+"education":[
+{
+  "sno":"1",
+  "degree":"Btech2",
+  "institute":"Mits",
+  "year":"2019"
+},
+{
+  "sno":"2",
+  "degree":"Btech1",
+  "institute":"Mits",
+  "year":"2018"
+},
+{
+  "sno":"3",
+  "degree":"Inter2",
+  "institute":"Narayana",
+  "year":"2017"
+}
+],
+"skills": [
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  }
+]
+
+}
